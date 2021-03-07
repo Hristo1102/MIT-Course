@@ -1,1 +1,1 @@
-MIT-Course
+Massachusetts Institute of Technology Course
