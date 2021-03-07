@@ -1,1 +1,1 @@
-Massachusetts Institute of Technology Course
+Massachusetts Institute of Technology Course - Introduction to Computer science with Python
